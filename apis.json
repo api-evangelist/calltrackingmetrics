@@ -1,0 +1,78 @@
+{
+    "name": "CallTrackingMetrics",
+    "description": "Call tracking software to track online and traditional advertising. Know which ads are working, which agents are performing, and make the most of every call.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1559-calltrackingmetrics.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "telecommunications",
+        "twilio"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/calltrackingmetrics\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "CallTrackingMetrics",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1559-calltrackingmetrics.jpg",
+            "humanURL": "https:\/\/calltrackingmetrics.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/calltrackingmetrics-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/calltrackingmetrics-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.calltrackingmetrics.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.calltrackingmetrics.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.calltrackingmetrics.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/call-tracking-metrics"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/calltrackingmetrics.com\/integration"
+        },
+        {
+            "type": "Email",
+            "url": "info@calltrackingmetrics.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@calltrackingmetrics.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@calltrackingmetrics.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CallTrac"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/calltrackingmetrics.com\/"
+        }
+    ]
+}
